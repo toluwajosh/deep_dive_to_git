@@ -1,1 +1,5 @@
-# deep_dive_to_git
+# Deep Dive into Git
+
+With Joshua Owoyemi (PhD)
+
+This is the readme file for the project.
